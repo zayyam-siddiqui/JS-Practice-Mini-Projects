@@ -1,0 +1,35 @@
+span {
+  display: block;
+}
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+
+#dustyRose {
+  background: rgb(170, 111, 115);
+  border: solid rgb(170, 111, 115) 2px;
+  border-radius: 50%;
+}
+#sageGreen {
+  background: rgb(141, 152, 141);
+  border: solid rgb(141, 152, 141) 2px;
+  border-radius: 50%;
+}
+#periwinkleGray {
+  background: rgb(151, 153, 186);
+  border: solid rgb(151, 153, 186) 2px;
+  border-radius: 50%;
+}
+#terraCotta {
+  background: rgb(202, 127, 104);
+  border: solid rgb(202, 127, 104) 2px;
+  border-radius: 50%;
+}
